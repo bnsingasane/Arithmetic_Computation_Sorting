@@ -10,3 +10,5 @@ read c
 
 #compute a+b*c
 op1=$(($a+$b*$c))
+
+
